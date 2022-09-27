@@ -7,7 +7,6 @@ programming, system engineering and devops, and web
 stack programming (Front-end & Back-end) using a
 methodology based on peer-learning and projects.
 - ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
-- 📝 [Here is my Curriculum Vitae](/Software_Engineer_Mariem_Matri.pdf)
 
 ### Connect with me:
 
