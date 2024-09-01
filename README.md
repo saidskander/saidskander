@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🌱 My name is Skander Amireche, I'm a Software engineering student at Holberton School and an Artist.
+- 🌱 My name is Skander Amireche, I'm a Software engineering and an Artist.
 - ✨ After graduation, I decided to dive into the TECH world.
 - 🌱 I have been studying low-level programming, high-level
 programming, system engineering, devops, and web
